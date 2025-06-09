@@ -1,0 +1,6 @@
+book            sách           
+cat             mèo            
+dog             chó            
+intersection    ngã từ         
+time            thời gian      
+women           phụ nữ         

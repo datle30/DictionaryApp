@@ -1,0 +1,204 @@
+accident
+tai nạn, rủi ro
+adjust
+điều chỉnh
+advertisement
+quảng cáo
+air
+không khí
+all
+tất cả
+ambulance
+xe cứu thương
+amount
+số lượng
+arrange
+sắp xếp
+attention
+sự chú ý
+automatic
+tự động
+background
+phía sau
+battery
+pin
+bedroom
+phòng ngủ
+big
+to, lớn
+bird
+chim
+black
+đen; màu đen
+borrow
+vay, mượn
+box
+hộp, thùng
+breakfast
+bữa điểm tâm, bữa sáng
+cake
+bánh
+cancel
+hủy bỏ
+candy
+kẹo
+captain
+đội trưởng
+carrot
+củ cà rốt
+century
+thế kỷ
+club
+(n) câu lạc bộ
+color
+(n) Màu sắc
+column
+(n) cột
+comfortable
+(adj) thoải mái, tiện nghi
+company
+(n) công ty
+computer
+(n) máy tính
+connect
+(v) kết nối
+content
+(n) nội dung
+continue
+(v) tiếp tục
+cook
+(v) (n) nấu ăn
+correct
+(adj) (v) đúng, chính xác
+country
+(n) nước, quốc gia
+crazy
+(adj) điên
+cry
+(v) (n) khóc
+dentist
+(n) nha sĩ
+different
+(adj) khác, khác nhau
+difficult
+(adj) khó, khó khăn
+discuss
+(v) thảo luận
+doctor
+(n) bác sĩ
+door
+(n) cánh cửa
+draw
+(v) vẽ
+driver
+(n) người lái xe
+energy
+(n) năng lượng
+enjoy
+(v) thưởng thức
+error
+(n) lỗi
+expensive
+(adj) đắt
+factory
+(n) nhà máy, xí nghiệp
+February
+tháng 2
+festival
+(n) lễ hội
+finish
+(v) (n) kết thúc
+fly
+(v) (n) bay
+free
+(adj) (v) (adv) miễn phí, tự do
+glass
+(n) kính, thủy tinh
+gun
+(n) súng
+heart
+(n) tim, trái tim
+history
+(n) lịch sử
+hospital
+(n) bệnh viện
+image
+(n) ảnh, hình ảnh
+keyboard
+(n) bàn phím
+lake
+(n) hồ
+lamp
+(n) đèn
+language
+(n) ngôn ngữ
+learn
+(v) học, nghiên cứu
+map
+(n) bản đồ
+menu
+(n) thực đơn
+mirror
+(n) gương
+motorcycle
+(n) xe mô tô
+mountain
+(n) núi
+mouse
+(n) chuột
+museum
+(n) bảo tàng
+newspaper
+(n) báo
+noisy
+(adj) ồn ào
+ocean
+(n) đại dương
+option
+(n) sự lựa chọn
+page
+(n) trang (sách)
+park
+(n) (v) công viên
+pencil
+(n) bút chì
+person
+(n) con người
+police
+(n) cảnh sát
+poor
+(adj) nghèo
+problem
+(n) vấn đề
+railway
+(n) đường sắt
+relationship
+(n) mối quan hệ
+replace
+(v) thay thế
+return
+(v) (n) trở lại
+rice
+(n) gạo
+roof
+(n) mái nhà
+screen
+(n) màn hình
+session
+(n) buổi họp, phiên họp
+shoe
+(n) giày
+sing
+(v) hát
+sleep
+(v) (n) ngủ
+sky
+(n) trời, bầu trời
+tourist
+(n) khách du lịch
+war
+(n) chiến tranh
+white
+(adj) (n) trắng; màu trắng
+hello
+(v) chào, xin chào

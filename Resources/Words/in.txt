@@ -1,0 +1,8 @@
+book,sách
+cat,mèo
+dog,chó
+fish,con cá
+intersection,ngã từ
+like,thích
+time,thời gian
+women,phụ nữ
