@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleButton?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="container" prefHeight="680.0" prefWidth="978.0" styleClass="containerBackground" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.GameController">
+   <Label fx:id="wordLabel" layoutX="333.0" layoutY="257.0" prefHeight="51.0" prefWidth="400.0" text="Welcome to the Quiz!" textAlignment="CENTER" textFill="WHITE">
+      <font>
+         <Font name="System Italic" size="30.0" />
+      </font></Label>
+   <ToggleButton fx:id="submitButton" layoutX="375.0" layoutY="379.0" mnemonicParsing="false" onAction="#handleSubmitButtonClick" prefHeight="51.0" prefWidth="121.0">
+      <graphic>
+         <ImageView fitHeight="92.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+               <Image url="@../icons/submit.png" />
+            </image>
+         </ImageView>
+      </graphic></ToggleButton>
+   <TextField fx:id="definitionTextField" layoutX="325.0" layoutY="308.0" prefHeight="64.0" prefWidth="220.0">
+      <font>
+         <Font size="24.0" />
+      </font></TextField>
+   <Label fx:id="player_score" layoutX="611.0" layoutY="213.0" prefHeight="47.0" prefWidth="83.0" text="Label" textFill="WHITE">
+      <font>
+         <Font name="System Italic" size="32.0" />
+      </font>
+   </Label>
+   <TextArea fx:id="scoreArea" layoutX="512.0" layoutY="109.0" prefHeight="82.0" prefWidth="263.0" text="Điểm của bạn">
+      <font>
+         <Font name="System Italic" size="34.0" />
+      </font>
+   </TextArea>
+   <ImageView fitHeight="195.0" fitWidth="387.0" layoutX="14.0" layoutY="96.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+         <Image url="@../icons/quiz.png" />
+      </image>
+   </ImageView>
+</AnchorPane>
